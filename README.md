@@ -1,6 +1,6 @@
 ## Hi, I'm Ivan :octocat: 👋
 
-👨‍💻 **Junior software developer**
+👨‍💻 **Software developer**
 
 
 
